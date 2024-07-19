@@ -1,0 +1,15 @@
+Object {
+  QAQ(12),
+  az("{()}"),
+  ch("123char"),
+  str(\"hello,\"),
+  astr("A B C D")
+}
+Object:qwq {
+  QWQ(11)
+}
+AnotherObject {
+  Just(123),
+  Another("1145"),
+  Object(14.1919)
+}

@@ -1,0 +1,7 @@
+Object {
+  QAQ(12),
+  az("{()}"),
+  ch(A114),
+  str(\"hello,\"),
+  astr("\"world!\"")
+}
